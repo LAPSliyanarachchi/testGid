@@ -1,2 +1,2 @@
 # testGid
-this is for testing git
+test repo for git commands demostration
